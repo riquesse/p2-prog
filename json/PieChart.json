@@ -1,0 +1,82 @@
+{
+    "categories": [
+        "Lunedì",
+        "Martedì",
+        "Mercoledì",
+        "Giovedì",
+        "Venerdì",
+        "Sabato"
+    ],
+    "chart-id": 0,
+    "chart-title": "Ore di ogni materia a settimana",
+    "slices": [
+        {
+            "slice-name": "Italiano",
+            "values": [
+                2,
+                1,
+                2,
+                2,
+                1,
+                0
+            ]
+        },
+        {
+            "slice-name": "Storia",
+            "values": [
+                1,
+                2,
+                0,
+                0,
+                2,
+                1
+            ]
+        },
+        {
+            "slice-name": "Geografia",
+            "values": [
+                3,
+                2,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "slice-name": "Ginnastica",
+            "values": [
+                2,
+                0,
+                0,
+                2,
+                0,
+                2
+            ]
+        },
+        {
+            "slice-name": "Matematica",
+            "values": [
+                2,
+                0,
+                3,
+                0,
+                2,
+                1
+            ]
+        },
+        {
+            "slice-name": "Scienze",
+            "values": [
+                2,
+                0,
+                1,
+                0,
+                1,
+                1
+            ]
+        }
+    ],
+    "slices-number": 6,
+    "values-per-slice": 6
+}

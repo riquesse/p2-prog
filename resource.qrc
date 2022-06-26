@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>res/bar-chart.png</file>
+        <file>res/clear.png</file>
+        <file>res/edit.png</file>
+        <file>res/insertcolumnicon.png</file>
+        <file>res/insertrowicon.png</file>
+        <file>res/line-chart.png</file>
+        <file>res/logo.png</file>
+        <file>res/menu.png</file>
+        <file>res/open.png</file>
+        <file>res/pie-chart.png</file>
+        <file>res/save.png</file>
+    </qresource>
+</RCC>
